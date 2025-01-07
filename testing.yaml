@@ -1,0 +1,7 @@
+
+path: /home/pranav455/grid001/code/data
+train: images/train
+val: images/train
+nc: 5
+names:  ['dove_deo', 'lays_packet', 'dortitos_packet', 'tide_detergent', 'date_code']
+
