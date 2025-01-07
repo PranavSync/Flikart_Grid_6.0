@@ -1,0 +1,5 @@
+Label: date_code, Count: 8
+Label: dove_deo, Count: 6
+Label: tide_detergent, Count: 3
+Label: lays_packet, Count: 5
+Label: dortitos_packet, Count: 2
